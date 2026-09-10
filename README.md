@@ -1,1 +1,1 @@
-# itmo-algorithms-labs-2026
+## itmo-algorithms-labs-2026
