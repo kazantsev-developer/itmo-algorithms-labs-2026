@@ -127,4 +127,4 @@
 
 1. Документация по языку программирования Go: https://go.dev/doc/
 2. Лекция 4: Поиск подстрок, Университет ИТМО.
-3. Мусаев А. А., Юсупов Р. М.: Особенности оценивания эффективности информационных систем и технологий, Труды СПИИРАН. 2017.[](https://www.mathnet.ru/php/archive.phtml?wshow=paper&jrnid=trspy&paperid=934&option_lang=rus)
+3. Мусаев А. А., Юсупов Р. М. [Особенности оценивания эффективности информационных систем и технологий, Труды СПИИРАН. - 2017](https://www.mathnet.ru/php/archive.phtml?wshow=paper&jrnid=trspy&paperid=934&option_lang=rus)
